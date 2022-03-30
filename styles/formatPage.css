@@ -71,6 +71,10 @@ header .menu{
     font-size: var(--text-md);
     padding: 1rem;
 }
+.menu .menu__item .menu__link:hover{
+    border-bottom: 2px solid white;
+    transition: all 1s;
+}
 footer{
     background-color: #86892E;
     width: 100%;
