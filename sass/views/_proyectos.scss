@@ -1,0 +1,27 @@
+.grid-proyectos{
+    display: grid;
+    width: 100%;
+    height: auto;
+    padding: 2%;
+    grid-template-columns: 50% 50% ;
+    grid-template-rows: auto;
+}
+p{
+    font-family: var(--font-primary);
+}
+.casaLago{
+    background-color: #BAC2B5;
+    border-radius: 10px;
+    width: 100%;
+    text-align: justify;
+    font-size: var(--text-md);
+    text-align: center;
+}
+.casaValle{
+    background-color: #BAC2B5;
+    border-radius: 10px;
+    width: 100%;
+    text-align: justify;
+    font-size: var(--text-md);
+    text-align: center;
+}

@@ -75,13 +75,7 @@ header .menu{
     border-bottom: 2px solid white;
     transition: all 1s;
 }
-footer{
-    background-color: #86892E;
-    width: 100%;
-    font-family: var(--font-primary);
-    color: white;
-    text-align: center; 
-}
+
 .titulo{  
     font-family: var(--font-primary);
     font-size: var(--text-lg);
